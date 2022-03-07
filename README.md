@@ -1,1 +1,1 @@
-# reposit-rio-aula2
+# repositório-aula2
